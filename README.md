@@ -49,7 +49,7 @@ optional arguments:
   -h, --help                                    show this help message and exit
 ```
 
-###Sample Configuration File:
+### Sample Configuration File:
 ```
 {
   "server": "127.0.0.1",
