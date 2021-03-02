@@ -1,0 +1,3 @@
+pyinstaller
+urllib3
+exchangelib==3.2.1 # only this verision works with pyinstaller
